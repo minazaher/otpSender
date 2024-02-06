@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "848562457019",
+    "project_id": "otp-sender-16468",
+    "storage_bucket": "otp-sender-16468.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848562457019:android:9aa749411256613bcfdc9e",
+        "android_client_info": {
+          "package_name": "com.example.otpsender"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8vBsqgV11w0Ez-z1gufCg5DgZIezaz1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

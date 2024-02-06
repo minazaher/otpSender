@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.OTPSender" parent="Theme.AppCompat.Light.NoActionBar">
+
+
+
+    </style>
+
+    <style name="Theme.OTPSender" parent="Base.Theme.OTPSender" />
+</resources>
